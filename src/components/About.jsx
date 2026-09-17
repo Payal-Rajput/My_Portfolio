@@ -4,7 +4,7 @@ function About() {
   return (
     <section
       id="about"
-      className="relative overflow-hidden bg-[#0A0A0A] px-5 py-32 md:px-8 md:py-44 lg:px-12"
+      className="relative overflow-hidden bg-[#0A0A0A] px-5 py-24 md:px-8 md:py-32 lg:px-12"
     >
       <div className="mx-auto max-w-7xl">
 

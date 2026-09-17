@@ -119,7 +119,7 @@ function Skills() {
   return (
     <section
       id="skills"
-      className="relative overflow-hidden bg-[#0A0A0A] py-32 md:py-44"
+      className="relative overflow-hidden bg-[#0A0A0A] py-8 md:py-16"
     >
       {/* Section heading */}
 

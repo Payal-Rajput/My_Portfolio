@@ -93,7 +93,7 @@ function Hero() {
                   duration: 1,
                   ease: [0.22, 1, 0.36, 1],
                 }}
-                className="font-semibold leading-[0.9] tracking-[-0.065em]"
+                className="font-semibold leading-[0.95] tracking-[-0.065em]"
               >
 
                 <span className="block text-[clamp(4rem,9vw,8rem)] text-[#ffffff]">
